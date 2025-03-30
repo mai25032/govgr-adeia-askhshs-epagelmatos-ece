@@ -1,0 +1,174 @@
+{
+    "PublicService": {
+        "name": "License for Practicing the Profession of Certified Electrical Engineer and Computer Engineer",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Copy of a domestic degree certificate.",
+                        "description": "Copy of a foreign degree certificate, legally certified with an official translation."
+                    },
+                    {
+                        "id": "ev0009",
+                        "type": "Evidence",
+                        "name": "Copy of a domestic academic transcript (detailed grades).",
+                        "description": "Copy of a foreign academic transcript (detailed grades), legally certified with an official translation."                        
+                    },
+                    {
+                        "id": "ev0010",
+                        "type": "Evidence",
+                        "name": "Certificate of equivalence and correspondence for a foreign degree",
+                        "description": "Certificate of equivalence and correspondence for a foreign degree issued by the competent recognition services of the Interdisciplinary Organization for the Recognition of Academic Titles and Information (D.O.A.T.A.P.), which may also be obtained officially."
+                    },
+                    {
+                        "id": "ev0011",
+                        "type": "Evidence",
+                        "name": "Copy of the diploma thesis and its summary.",
+                        "description": "Submitted for examination purposes and for inclusion in the T.E.E. library as well as in the individual record of the applicant in the registry maintained by T.E.E."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0013",
+                        "type": "Evidence",
+                        "name": "Photocopy of the police ID card.",
+                        "description": "Submission by the applicant (in person or by mail), Submission by the applicant (digitally), Submission by the applicant (via email)."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Alternative identity verification documents: military ID, passport.",
+                        "description": "Submission by the applicant (in person or by mail), Submission by the applicant (digitally), Submission by the applicant (via email)."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Four (4) strictly passport-sized photos on matte paper, with the applicant’s full name written on the back.",
+                        "description": "Submission of a digital photo in jpeg format, similar to a police ID photo."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Solemn Declaration",
+                        "description": "The process involves issuing an electronic solemn declaration by the applicant, without requiring a visit to an administrative office or KEP. You can access the electronic solemn declaration service in two (2) ways: a) using your personal web banking credentials at one of the available banks, or b) using your personal TAXISnet credentials (after initially logging in once with web banking credentials to verify your mobile number). You will then receive confirmation codes via SMS. The electronic solemn declaration is legally equivalent to a notarized one, and you can either send it electronically or print and submit it to a public authority. Citizens also retain the right to sign a physical solemn declaration (Law 1599/86, Article 8) and submit it as supporting documentation for their case."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "evs": [
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Request for issuance of codes",
+                        "description": "Request for the issuance of codes to enable the person concerned to submit the application"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "evs": [
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "My TEE Registration Application",
+                        "description": "Application for 'registration for free services of T.E.E. (My TEE)'."
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "evs": [
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "Copy of degree certificate.",
+                        "description": "Legally certified copy of degree certificate."
+                    },
+                    {
+                        "id": "ev0012",
+                        "type": "Evidence",
+                        "name": "Copy of the academic transcript (detailed grades).",
+                        "description": "Legally certified copy of the academic transcript (detailed grades)."
+                    },
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Copy of the diploma thesis and its summary.",
+                        "description": "Submitted for examination purposes and for inclusion in the T.E.E. library as well as in the individual record of the applicant in the registry maintained by T.E.E."
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "evs": [
+                    {
+                        "id": "ev0016",
+                        "type": "Evidence",
+                        "name": "Solemn Declaration (Article 8 of Law 1599/1986) by the applicant",
+                        "description": "Solemn Declaration (Article 8 of Law 1599/1986) by the applicant stating that: a) they are not under judicial guardianship, b) they have not been irrevocably convicted of a felony and are not serving a sentence, or they have been convicted and are serving a sentence from '... to ...', c) they are not a public servant or, if they are, they engage in private work, and d) their diploma thesis and summary were written by themselves."
+                    }
+                ]
+            }
+        ],
+        "criterion_requirements": [
+            {
+                "id": "cr0001",
+                "name": "The applicant must not be a member of the T.E.E."
+            },
+            {
+                "id": "cr0002",
+                "name": "The person concerned must not be in legal aid."
+            },
+            {
+                "id": "cr0003",
+                "name": "The applicant must responsibly state the title of his/her thesis and certify that the thesis has been written by him/her. If the thesis has been written in collaboration with other colleagues, their names must be given."
+            },
+            {
+                "id": "cr0004",
+                "name": "The applicant must hold a degree in Electrical and Computer Engineering from a Higher Educational Institution (A.E.I.)."
+            },
+            {
+                "id": "cr0005",
+                "name": "The applicant must hold a foreign degree recognised by the Interdisciplinary Organisation for the Recognition of Academic Qualifications and Information (D.O.A.A.T.A.P.) as equivalent and corresponding to a national degree in Electrical and Computer Engineering."
+            },
+            {
+                "id": "cr0006",
+                "name": "If the person concerned obtained his/her degree abroad, he/she submits to the T.E.E. the same qualifications (Bachelor and/or Master) that he/she submitted to the D.O.A.T.A.P. to obtain the relevant act of equivalence and equivalence."
+            },
+            {
+                "id": "cr0007",
+                "name": "The interested party must register as a member of the T.E.E.E. and the free services of the T.E.E. (My TEE)."
+            },
+            {
+                "id": "cr0008",
+                "name": "If the application for participation in the examinations and the required supporting documents are submitted via the online application of the T.E.E., the applicant must request an access code."
+            },
+            {
+                "id": "cr0009",
+                "name": "Totally blind individuals (Law 958/1979, Government Gazette A' 191) and their companions are exempted from the income criteria, as defined above, according to decision 445/98 of the Council of Suspension of the Council of State, and they receive a travel pass regardless of their income limit."
+            }
+        ]
+    }
+}
