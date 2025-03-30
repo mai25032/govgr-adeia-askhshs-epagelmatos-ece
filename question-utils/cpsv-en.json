@@ -70,9 +70,8 @@
                     {
                         "id": "ev0003",
                         "type": "Evidence",
-                        "name": "Solemn Declaration",
-                        "description": "The process involves issuing an electronic solemn declaration by the applicant, without requiring a visit to an administrative office or KEP. You can access the electronic solemn declaration service in two (2) ways: a) using your personal web banking credentials at one of the available banks, or b) using your personal TAXISnet credentials (after initially logging in once with web banking credentials to verify your mobile number). You will then receive confirmation codes via SMS. The electronic solemn declaration is legally equivalent to a notarized one, and you can either send it electronically or print and submit it to a public authority. Citizens also retain the right to sign a physical solemn declaration (Law 1599/86, Article 8) and submit it as supporting documentation for their case."
-                    }
+                        "name": "Application - Declaration of Disclosure of Personal Data of the interested party.",
+                        "description": "Consent for the collection, processing and storage by the T.E.E. of all personal data of the interested party included in the application and the attached documents."
                 ]
             },
             {
