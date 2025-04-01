@@ -302,7 +302,7 @@ $("document").ready(function () {
     const errorEnd = document.createElement("h5");
     const error =
       currentLanguage === "greek"
-        ? "Λυπούμαστε αλλά δεν μπορείτε να εκδώσετε Άδεια Εξάσκησης Επαγγέλματος Διπλωματούχου Ηλεκτρονικού Μηχανικού και Μηχανικού Υπολογιστών!"
+        ? "Λυπούμαστε αλλά δεν μπορείτε να εκδόσετε Άδεια Εξάσκησης Επαγγέλματος Διπλωματούχου Ηλεκτρονικού Μηχανικού και Μηχανικού Υπολογιστών!"
         : "We are sorry but you cannot issue a Licence to Practice as a Certified Electronic and Computer Engineer!";
     errorEnd.className = "govgr-error-summary";
     errorEnd.textContent = error + " " + message;
