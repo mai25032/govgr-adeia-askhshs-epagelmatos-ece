@@ -351,14 +351,6 @@ $("document").ready(function () {
         ? setResult("Μπορείς να εκδόσεις άδεια άσκησης επαγγέλματος ως απόφοιτος ισότιμου πανεπιστημίου της αλλοδαπής και όλα τα δικαιολογητικά είναι τα ακόλουθα.")
         : setResult("You can issue a professional license as a graduate of an equivalent foreign university and all the documents are as follows.");
     }
-    //if (allAnswers[7] === "2") {
-        //if (allAnswers[2] === "1") {
-            //getEvidencesById(8);
-        //} else if (allAnswers[2] === "2") {
-            //getEvidencesById(1);
-        //} 
-        //return;
-    //}
 }
 
   function submitForm() {
