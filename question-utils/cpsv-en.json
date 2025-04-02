@@ -48,7 +48,7 @@
                     {
                         "id": "ev0002",
                         "type": "Evidence",
-                        "name": "Alternative identity verification documents: military ID, passport.",
+                        "name": "Or alternative identity verification documents: military ID, passport.",
                         "description": "Submission by the applicant (in person or by mail), Submission by the applicant (digitally), Submission by the applicant (via email)."
                     }
                 ]
@@ -59,7 +59,7 @@
                     {
                         "id": "ev0004",
                         "type": "Evidence",
-                        "name": "Four (4) strictly passport-sized photos on matte paper, with the applicant’s full name written on the back.",
+                        "name": "Two (2) strictly passport-sized photos on matte paper, with the applicant’s full name written on the back.",
                         "description": "Submission of a digital photo in jpeg format, similar to a police ID photo."
                     }
                 ]
